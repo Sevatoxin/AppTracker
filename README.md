@@ -2,6 +2,6 @@
 
 ## Installation
 1. Initialize a virtual environment
-2. Install required dependencies with pip and the requirements.txt file
-3. Enter the virtual environment
-4. Run python main.py
+2. Enter the virtual environment
+3. Install required dependencies with pip and the requirements.txt file
+5. Run python main.py
